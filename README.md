@@ -45,9 +45,13 @@ Polygon
 ## Members
 
 Muhammad Ahmed (Product Owner) eb19102047
+
 Mouazzama bint e Umer(Scrum Master) eb19102044
+
 Saad Salman(Developer) eb19102103
+
 Rahib Javed Siddique(Developer) eb19102104
+
 Hamza Ahmed(Ui/Ux) eb19102025  
 
 
