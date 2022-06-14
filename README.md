@@ -1,10 +1,10 @@
 ### Decentragram
 
-##Abstract
+## Abstract
 
 Decentralized social networks operate on independently run servers, rather than on a centralized server owned by a business. Mastodon is one example of a decentralized social network. It is based on open-source software and functions a lot like Twitter. Another example is Steem, which runs on a social blockchain 
 
-##Advantages
+## Advantages
 
 Corporate entities control major social media sites, and a small group of people within these companies sets the rules of engagement. This has raised concerns about free speech and censorship among users. Last year, Facebook enacted high-profile bans on individuals from all sides of the political spectrum, from Louis Farrakhan to Alex Jones. Banning violent, hateful, and dangerous messaging helps protect social media users from malicious online activity, but some believe the bans run contrary to ideals of free speech.
 
@@ -16,11 +16,11 @@ Economic neutrality is an essential ideal for many who turn to decentralized soc
 
 
 
-##Working
+## Working
 
 For a second, consider the concept of rewarding users for using the internet. We spend much of our time using one or more Web2 platforms, be it for reading blogs, watching videos, or just scrolling through the internet. The platforms that we use generate billions of dollars, but the users never receive anything for their loyalty. Web3 changes this drastically by rewarding users for their participation. 
 
-##Features:
+## Features:
 
 Register user through MetaMask wallet
 Upload Media files on a decentralized database InterPlanetary File System (IPFS) is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices. IPFS allows users to host and receive content in a manner similar to BitTorrent
@@ -30,7 +30,7 @@ Pictures of content creator converted as NFTs so creator earn money through it
 Censorship resistant by using Binance Blockchain So, no single authority have control on Platform
 Data privacy through public-key cryptography for account security, rather than relying on a single organization to protect user data.
 
-##Technologies
+## Technologies
 React.js
 IPFS
 Binance Blockchain
@@ -41,5 +41,16 @@ Ethers.js
 MetaMask
 Rinkeby fauset 
 Polygon
+
+## Members
+
+Muhammad Ahmed (Product Owner) eb19102047
+Mouazzama bint e Umer(Scrum Master) eb19102044
+Saad Salman(Developer) eb19102103
+Rahib Javed Siddique(Developer) eb19102104
+Hamza Ahmed(Ui/Ux) eb19102025  
+
+
+
 
 
